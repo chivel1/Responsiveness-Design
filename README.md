@@ -1,0 +1,5 @@
+- A simple layout design 
+- ⁠using flex-box and grid system
+- ⁠Flex-box: on the navbar
+- ⁠grid for the main-contanier layout
+- ⁠Resposiveness on responsive medium
